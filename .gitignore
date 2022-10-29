@@ -30,3 +30,4 @@ target
 .idea
 /bin/
 .DS_Store
+.idea/sonarlint/issuestore/index.pb
